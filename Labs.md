@@ -116,7 +116,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Marcinkiewicz Oskar
 1. Niewczas Katarzyna
 1. Okoniewski Daniel
-1. Olobry Konrad
+1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
 1. Pałkowska Klaudia
 1. Popko Adrianna
 1. Rostek Karolina
